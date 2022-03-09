@@ -2,7 +2,7 @@
 
 Building a position sensor for the 1st generation of HTC Vive's Lighthouse tracking system.
 
-A work in progress.
+This is a work in progress. For a starting point, see the [Logic Analyzer](simulation/Logic%20Analyzer.ipynb) notebook.
 
 ## Cloning the repository
 
