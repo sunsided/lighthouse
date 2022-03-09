@@ -4,6 +4,14 @@ Building a position sensor for the 1st generation of HTC Vive's Lighthouse track
 
 A work in progress.
 
+## Cloning the repository
+
+This repo uses [Git LFS](https://git-lfs.github.com/) for tracking large files such as images and signal waveform logs (CSV). To clone it, use a regular `git clone` when Git LFS is installed:
+
+```console
+$ git clone git@github.com:sunsided/lighthouse.git
+```
+
 ## Directory structure
 
 - `docs/` contains papers, datasheets and other documents,
