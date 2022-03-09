@@ -8,7 +8,7 @@ A work in progress.
 
 - `docs/` contains papers, datasheets and other documents,
 - `fritzing/` contains Fritzing schematics for the sensor board
-- `measurements/` contains sensor measurements from both a Saleae Logic analyzer and a Rigol DS1104 scope
+- `measurements/` contains sensor measurements from both a Saleae Logic analyzer and a Rigol DS1104Z scope
 - `simulation/` contains Jupyter Notebooks for working out the details
 
 ## Source material
